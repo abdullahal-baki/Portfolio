@@ -47,8 +47,7 @@ Below is a categorized list of all my public projects.
 ## 🖥️ Full-Stack & Web Apps
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Analytics Dashboard** | Real-time charts with authentication | Next.js, FastAPI |
-| **Messaging Automation Panel** | Internal tool for automated scheduling & messaging | Flask, JS |
+| **[Customer Support Hub](https://github.com/abdullahal-baki/Twilio-Powered-Customer-Support-Web-App/blob/main/README.md)** | A comprehensive real-time SMS support management system built with Flask and integrated with Twilio API for seamless customer communication. | Flask, Twilio |
 
 ---
 

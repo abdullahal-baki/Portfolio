@@ -30,9 +30,7 @@ Below is a categorized list of all my public projects.
 ## 🕸️ Web Scraping & Automation
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Smart Scraper Framework** | Modular scraping engine with proxies, retries, captcha handling | Playwright, Bright Data |
-| **LinkedIn Enrichment Tool** | Automatically extracts and enriches lead profiles | Python, Selenium |
-| **Auto-Billing System** | End-to-end automated billing pipeline for a live client | Selenium, Python, AWS |
+| **[Automatic Golf Tee‑Time Monitoring System](https://github.com/abdullahal-baki/Automatic-Golf-Tee-Time-Monitoring-System/blob/main/README.md)** | Automated golf tee-time booking system with Flask, Telegram notifications, and real-time search for available slots. | Selenium, Flask, JS |
 
 ---
 

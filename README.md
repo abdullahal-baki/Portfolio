@@ -22,7 +22,7 @@ Below is a categorized list of all my public projects.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **[Full-Stack AI Lead Automation System](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/README.md)** | End-to-end AI SDR platform: lead enrichment, email generation, AI reply handling, meeting booking | RAG, LangChain, OpenAI, Pinecone, Next.js |
-| **AI Chatbot + RAG Backend** | Custom chatbot with vector search and prompt chaining | FastAPI, LangChain, Chroma |
+| **[AI Chatbot + RAG Backend](https://github.com/abdullahal-baki/AI-Chat-Agent-Doc/blob/main/README.md)** | Custom chatbot with Multi-Agent, vector search and HITL | FastAPI, LangChain, NextJS |
 | **Automation Bot Suite** | Multi-agent automation framework for workflow tasks | Python, CrewAI, n8n |
 
 ---
